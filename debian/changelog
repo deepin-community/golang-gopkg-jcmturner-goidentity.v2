@@ -1,0 +1,11 @@
+golang-gopkg-jcmturner-goidentity.v2 (2.0.0-2) unstable; urgency=medium
+
+  * Reupload as source-only
+
+ -- Stephen Gelman <ssgelm@debian.org>  Tue, 25 Feb 2020 23:07:45 -0600
+
+golang-gopkg-jcmturner-goidentity.v2 (2.0.0-1) unstable; urgency=medium
+
+  * Initial release (Closes: #951814)
+
+ -- Stephen Gelman <ssgelm@debian.org>  Fri, 21 Feb 2020 17:26:34 -0600
